@@ -1,0 +1,9 @@
+c:\users\hmc\documents\visual studio 2015\Projects\SC\SC\bin\Debug\SC.exe.config
+c:\users\hmc\documents\visual studio 2015\Projects\SC\SC\bin\Debug\SC.exe
+c:\users\hmc\documents\visual studio 2015\Projects\SC\SC\bin\Debug\SC.pdb
+c:\users\hmc\documents\visual studio 2015\Projects\SC\SC\obj\Debug\SC.csprojResolveAssemblyReference.cache
+c:\users\hmc\documents\visual studio 2015\Projects\SC\SC\obj\Debug\SC.Properties.Resources.resources
+c:\users\hmc\documents\visual studio 2015\Projects\SC\SC\obj\Debug\SC.csproj.GenerateResource.Cache
+c:\users\hmc\documents\visual studio 2015\Projects\SC\SC\obj\Debug\SC.exe
+c:\users\hmc\documents\visual studio 2015\Projects\SC\SC\obj\Debug\SC.pdb
+c:\users\hmc\documents\visual studio 2015\Projects\SC\SC\obj\Debug\SC.검색기.resources
